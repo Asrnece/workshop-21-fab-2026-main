@@ -1,7 +1,7 @@
 export const portfolioConfig = {
   personalInfo: {
     name: "Asrın Ece",
-    title: "Endüstrimühendisliği Öğrencisi",
+    title: "Endüstri Mühendisliği Öğrencisi",
     bio: "Güzel, fonksiyonel ve kullanıcı odaklı dijital deneyimler yaratmayı seven tutkulu bir yazılımcıyım. React, Next.js ve modern web teknolojileri konusunda uzmanlaşıyorum.",
     profileImage:
       "https://media.licdn.com/dms/image/v2/D4D03AQHvX5fVV3cadQ/profile-displayphoto-scale_200_200/B4DZoV.ePOGwAY-/0/1761305290759?e=2147483647&v=beta&t=oDJx_aukoj0iiOTFjAZlDm4QfmiiVLh-a1AAYh9LUV0", // Örnek görsel
